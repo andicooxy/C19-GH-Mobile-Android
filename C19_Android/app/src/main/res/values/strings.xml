@@ -4,4 +4,66 @@
     <string name="password">PIN</string>
     <string name="dont_have_account">Don\'t have an account? Please Register.</string>
     <string name="register">REGISTER</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agreement">By tapping \'Send Verification Code\' below, you will receive an SMS to verify your phone number. You will not bear any cost whatsoever.</string>
+
+    <string-array name="sex">
+        <item>Sex</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="edu_level">
+        <item>Educational level</item>
+        <item>Tertiary</item>
+        <item>High School</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="marital_status">
+        <item>Marital Status</item>
+        <item>Married</item>
+        <item>Single</item>
+        <item>Divorced</item>
+        <item>Separated</item>
+        <item>Widowed</item>
+    </string-array>
+
+    <string-array name="living_alone">
+        <item>Living alone?</item>
+        <item>Alone</item>
+        <item>1 Other person</item>
+        <item>2 Other people</item>
+        <item>3 Other people</item>
+        <item>more than 3 people</item>
+    </string-array>
+
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+
+    <string-array name="days">
+        <item>Day</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
 </resources>
